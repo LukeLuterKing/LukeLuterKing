@@ -9,7 +9,7 @@ I'm a passionate developer with a love for web development and backend technolog
 - 👯 I’m looking to collaborate on open source web development projects
 - 💬 Ask me about web development, PHP
 - 📫 How to reach me: luke.orzeszyna@gmail.com
-- ⚡ Fun fact: I can solve a Rubik's Cube in under a minute!
+
 
 ## 🛠️ Technologies & Tools
 
